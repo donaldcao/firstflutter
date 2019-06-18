@@ -3,6 +3,7 @@ import 'package:english_words/english_words.dart';
 
 void main() => runApp(new MyApp());
 
+// Final version for hello world example.
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
