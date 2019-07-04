@@ -1,8 +1,10 @@
+import 'package:firstflutter/HeroAnimationRoute.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'TapboxA.dart';
+import 'ScaleAnimationRoute.dart';
 
-void main() => runApp(BothDirectionTestRoute());
+void main() => runApp(HeroAnimationRoute());
 
 class BothDirectionTestRoute extends StatefulWidget {
   @override
